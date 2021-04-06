@@ -35,4 +35,5 @@ p {
 .user_name {
     color: black;
     font-weight: 500;
+    max-width: 75px;
 }
